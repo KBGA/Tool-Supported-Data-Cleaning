@@ -1,6 +1,2 @@
-# Data-Cleaning-Excercise
-Data Cleaning Excercise
+# Tool-Supported-Data-Cleaning
 
-<img src="Data_Cleaning.png"
-     alt="Data Cleaning"
-     style="float: left; margin-right: 10px;" />
