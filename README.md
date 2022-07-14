@@ -1,6 +1,9 @@
 # Tool-Supported-Data-Cleaning
 
-## Daten Hochladen
+## Aufgabe 1
+<br><br>
+
+### Daten Hochladen
 <br>
 Ich habe die Daten als CSV-Datei gespeichert und auf trifacta hochgeladen (siehe Screenshot)
 <br><br>
@@ -19,9 +22,12 @@ Ich habe die Daten als CSV-Datei gespeichert und auf trifacta hochgeladen (siehe
 ![Recipe](Recipe.png)
 
 
-## Ergebnis
+### Ergebnis
 <br>
 Am Ende wurde das Ergebnis in der Datei "dsm-beuth-edl-demodata-clean.csv" gespeichert.
 <br><br>
 
 ![Clean Data](Clean.png)
+
+<br><br>
+## Aufgabe 2
