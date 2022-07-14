@@ -3,9 +3,9 @@
 ## Daten Hochladen
 <br>
 Ich habe die Daten als CSV-Datei gespeichert und auf trifacta hochgeladen (siehe Screenshot)
-<br>
+<br><br>
 
-![alt text](trifacta_upload.png)
+![Initial Data](trifacta_upload.png)
 
 
 1- Zuerst werden alle Zeilen gelöscht, die kein gültes Alter haben. <br>
@@ -16,11 +16,12 @@ Ich habe die Daten als CSV-Datei gespeichert und auf trifacta hochgeladen (siehe
 6- Um später Duplikate zu identifizieren, werden die "id" gelöscht. <br>
 7- Duplikate werden gelöscht.<br> <br>
 
-![alt text](Recipe.png)
+![Recipe](Recipe.png)
 
 
 ## Ergebnis
 <br>
-Am Ende wurde das Ergebnis in der Datei "dsm-beuth-edl-demodata-clean.csv" gespeichert
+Am Ende wurde das Ergebnis in der Datei "dsm-beuth-edl-demodata-clean.csv" gespeichert.
+<br><br>
 
-![alt text](Clean.png)
+![Clean Data](Clean.png)
