@@ -31,3 +31,13 @@ Am Ende wurde das Ergebnis in der Datei "dsm-beuth-edl-demodata-clean.csv" gespe
 
 <br><br>
 ## Aufgabe 2
+
+<br>
+Wenn man die Daten hochgeladen hat, ist es möglich zu sehen, wo trifacta mögliche Fehler gefunden hat. Hier gibt es 3 Zeilen mit Missmatch und 2 Zeilen, mit fehleden Daten (siehe Screenshot).
+<br><br>
+![Grid Disruption: mögliche Fehler](Grid_Dis_Initial_Prob.png)
+
+<br><br>
+
+
+
