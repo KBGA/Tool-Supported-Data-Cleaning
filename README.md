@@ -3,3 +3,6 @@
 ## Daten Hochladen
 
 Ich habe die Daten als CSV-Datei gespeichert und auf trifacta hochgeladen (siehe Screenshot)
+
+
+![alt text](trifacta_upload.png)
