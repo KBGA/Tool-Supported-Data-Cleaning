@@ -46,4 +46,17 @@ Auf dem folgenden Screenshot kann man sehen, dass es Zellen gibt, die kein Datum
 
 ![Grid Disruption: Fehler bei dem Datum](Display_Errors.png)
 
+<br><br>
+
+Auf dem folgenden Screenshot sind weitere Beispiele von Fehlern zu sehen
+<br><br>
+![Grid Disruption: Fehler bei dem Datum](Display_Errors2.png)
+
+<br><br>
+
+Die Anzahl der Zeilen mit Fehlern ist sehr klein im Vergleich zu der Anzahl der Zeilen Ohne Fehler, deshalb würde ich alle Zeilen löschen, wo es Fehler gibt.
+<br><br>
+
+
+
 
