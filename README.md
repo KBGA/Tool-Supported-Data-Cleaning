@@ -56,6 +56,7 @@ Auf dem folgenden Screenshot sind weitere Beispiele von Fehlern zu sehen
 
 Die Anzahl der Zeilen mit Fehlern ist sehr klein im Vergleich zu der Anzahl der Zeilen ohne Fehler, deshalb würde ich alle Zeilen löschen, wo es Fehler gibt.
 <br><br>
+Es gibt insgesamt nur 3 Zeilen, mit fehlenden Daten, deshalb würde ich diese Zeilen auch löschen.
 
 
 
