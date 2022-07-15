@@ -40,5 +40,10 @@ Wenn man die Daten hochgeladen hat, ist es möglich zu sehen, wo trifacta mögli
 
 <br><br>
 
+Auf dem folgenden Screenshot kann man sehen, dass es Zellen gibt, die kein Datum haben.
+
+<br><br>
+
+![Grid Disruption: Fehler bei dem Datum](Display_Errors.png)
 
 
