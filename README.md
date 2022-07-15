@@ -54,7 +54,7 @@ Auf dem folgenden Screenshot sind weitere Beispiele von Fehlern zu sehen
 
 <br><br>
 
-Die Anzahl der Zeilen mit Fehlern ist sehr klein im Vergleich zu der Anzahl der Zeilen Ohne Fehler, deshalb würde ich alle Zeilen löschen, wo es Fehler gibt.
+Die Anzahl der Zeilen mit Fehlern ist sehr klein im Vergleich zu der Anzahl der Zeilen ohne Fehler, deshalb würde ich alle Zeilen löschen, wo es Fehler gibt.
 <br><br>
 
 
